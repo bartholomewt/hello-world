@@ -1,3 +1,5 @@
 # hello-world
-For learning github.
+
 Teaching kids! Yay!
+
+Deleted the learning GitHub bit.  Now it has tacos!
